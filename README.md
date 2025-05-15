@@ -1,6 +1,6 @@
 # Ex02 Django ORM Web Application
 ##REG-NO:212224040159
-## Date:22-04-2025 
+## Date:12-04-2025 
 
 ## AIM
 To develop a Django application to store and retrieve data from Movies Database using Object Relational Mapping(ORM).
@@ -55,11 +55,11 @@ admin.site.register(Movie,MovieAdmin)
 
 ## OUTPUT
 
-![Screenshot 2025-04-22 212021](https://github.com/user-attachments/assets/cf63f93d-1404-4c26-a3f5-35d10d0af11d)
+![Screenshot 2025-04-22 212021](https://github.com/user-attachments/assets/39143cc6-9f9f-4484-99cc-01e984c10d6a)
 
-![Screenshot 2025-04-22 211653](https://github.com/user-attachments/assets/7d4736cd-fc8a-45ec-ad0a-0d0c65c1de0f)
+![Screenshot 2025-04-22 211653](https://github.com/user-attachments/assets/f6187e81-c14b-42a3-923b-0685f4282c56)
+
 
 
 ## RESULT
 Thus the program for creating a database using ORM hass been executed successfully
-
